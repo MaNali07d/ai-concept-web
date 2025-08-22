@@ -19,4 +19,5 @@ A simple and clean website made using HTML and CSS that visually explains fundam
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Manali Desai]
+
