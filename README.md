@@ -17,7 +17,12 @@ A simple and clean website made using HTML and CSS that visually explains fundam
 - HTML5
 - CSS3
 
+## 🚀 Live Demo
+
+- Check it out here 👉 [AI Concepts Website](https://manali07d.github.io/ai-concept-web/)
+
 ---
 
 Made with ❤️ by [Manali Desai]
+
 
